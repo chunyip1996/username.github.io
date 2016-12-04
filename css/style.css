@@ -1,0 +1,47 @@
+p{
+	color:brown;
+	text-align:center;
+}
+h1{
+	color:#26FA01;
+	font-size:52px;
+	font-family:"Avenir"; 
+}
+a{
+	text-align:center;
+	background-color:#CF1AB1;
+	border: 2px solid black;
+	padding-top:20px;
+	padding-bottom:2px;
+	padding-left:2px;
+	padding-right: 2px;
+}
+div{
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	background:#7795F5;
+}
+body{ 
+	background:black;
+	font-size:20px;
+	font-family:Arial;
+	text-align: center;
+ }
+ .second{
+ 	background:white;
+ }
+.second h1{
+ 	color:#CF1AB1;
+ 	font-family: "Agency FB";
+ }
+ .first, .second{
+ 	width:200px;
+ 	float:left;
+ }
+ .container{
+ 	width:900px;
+ 	margin-right:auto;
+ 	margin-left:auto;
+ }

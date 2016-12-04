@@ -1,0 +1,25 @@
+body{
+	background:url("../css/img2.jpg");
+}
+h1{
+	color:#F08080;
+	font-size:52px;
+	font-family: 'Chewy', cursive; 
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color:#D3D3D3;
+}
+p{
+	color:white;
+	font-family: Arial; 
+	font-size:20;
+}
+p class="bg-primary{
+	text-align: center
+}
+
+.bg-primary{
+	text-align:center;
+}
