@@ -1,47 +1,25 @@
-p{
-	color:brown;
-	text-align:center;
+body{
+	background:url("../css/img2.jpg");
 }
 h1{
-	color:#26FA01;
+	color:#F08080;
 	font-size:52px;
-	font-family:"Avenir"; 
-}
-a{
-	text-align:center;
-	background-color:#CF1AB1;
-	border: 2px solid black;
-	padding-top:20px;
-	padding-bottom:2px;
-	padding-left:2px;
-	padding-right: 2px;
-}
-div{
-	width:800px;
-	margin-left:auto;
-	margin-right:auto;
-	text-align:center;
-	background:#7795F5;
-}
-body{ 
-	background:black;
-	font-size:20px;
-	font-family:Arial;
+	font-family: 'Chewy', cursive; 
 	text-align: center;
- }
- .second{
- 	background:white;
- }
-.second h1{
- 	color:#CF1AB1;
- 	font-family: "Agency FB";
- }
- .first, .second{
- 	width:200px;
- 	float:left;
- }
- .container{
- 	width:900px;
- 	margin-right:auto;
- 	margin-left:auto;
- }
+}
+h2{
+	text-align: center;
+	color:#D3D3D3;
+}
+p{
+	color:white;
+	font-family: Arial; 
+	font-size:20;
+}
+p class="bg-primary{
+	text-align: center
+}
+
+.bg-primary{
+	text-align:center;
+}
